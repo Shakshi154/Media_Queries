@@ -1,1 +1,1 @@
-HOSTED LINK - https://shakshi2125.github.io/Media_Queries/
+HOSTED LINK - https://Shakshi154.github.io/Media_Queries/
